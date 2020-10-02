@@ -1,0 +1,18 @@
+.title {
+    font-weight: bold;
+}
+
+.main {
+    padding: 20px;
+}
+
+nav {
+    background-color: #000;
+    font-size: 20px;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 10px;
+}
